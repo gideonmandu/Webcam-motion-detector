@@ -1,0 +1,6 @@
+__pycache__/
+ll_env/
+bokeh/
+.vscode/
+html_test.py
+Graph1.html
