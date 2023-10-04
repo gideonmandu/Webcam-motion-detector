@@ -346,7 +346,7 @@ u-msgpack-python==2.3.0
 ufw==0.36
 unicodecsv==0.14.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.17
 urwid==2.0.1
 venusian==3.0.0
 vinetto==0.8.0
