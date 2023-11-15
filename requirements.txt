@@ -111,7 +111,7 @@ hyperlink==19.0.0
 icalendar==4.0.3
 idna==2.8
 imageio==2.4.1
-impacket==0.9.20
+impacket==0.9.23
 incremental==16.10.1
 ipdb==0.12.2
 ipwhois==0.15.1
