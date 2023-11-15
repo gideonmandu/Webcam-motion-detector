@@ -334,7 +334,7 @@ theHarvester==3.1.0
 tld==0.11.11
 tls-parser==1.2.1
 torbrowser-launcher==0.3.2
-tornado==5.1.1
+tornado==6.3.3
 tqdm==4.43.0
 traitlets==4.3.3
 translationstring==1.3
